@@ -1,0 +1,25 @@
+body{
+  background-color: red;
+}
+
+.btn-block{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.row{
+  margin-top: 1px  !important;
+  margin-bottom: 1px  ;
+}
+.cellSettings{
+  padding-right: 1px;
+  padding-left: 1px;
+    min-height: 20px;
+}
+
+.display{
+    min-height: 25px;
+  background-color: #FFF;
+  border: 1px solid transparent;
+  border-radius: 4px;
+   vertical-align: middle;
+}
