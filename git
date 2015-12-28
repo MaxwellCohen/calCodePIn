@@ -1,0 +1,12 @@
+git commands
+start an repo
+  git init
+  git clone
+how do I know what is going on?
+  git status
+get files into my repo repo
+  git add
+  git commit -m
+dealing with other people
+  Branching
+    git branch
